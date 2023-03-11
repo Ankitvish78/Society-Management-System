@@ -1,1 +1,1 @@
-# Society-Management-System
+Software Engineering - Mini Project 

@@ -29,3 +29,11 @@ The system allows society administrators to keep track of visitors entering and 
 Notification Management:
 
 The system provides a notification management feature that allows society administrators to send notifications to members for different events, payments, and complaints.
+
+Technology Stack:
+
+The technology stack used to develop the Society Management System includes PHP, MySQL, HTML/CSS, and JavaScript. PHP is a popular server-side scripting language that is widely used for web application development. MySQL is an open-source relational database management system that is used to store and retrieve data. Bootstrap 5 is used to create the user interface of the system, while JavaScript is used to add interactivity to the system.
+
+Conclusion:
+
+In conclusion, the Society Management System is a comprehensive solution for managing society affairs. The system provides essential features such as member registration, event management, fee management, complaint handling, visitor management, and notification management. The use of PHP and MySQL as the technology stack provides a robust and scalable platform for future development. With the installation process being relatively easy, society administrators can get up and running in no time. The Society Management System can streamline the management process and make it more efficient, saving valuable time and resources.
